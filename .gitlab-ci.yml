@@ -1,0 +1,19 @@
+image: emnsen/node
+
+stages:
+  - lint
+
+
+eslint:
+  # tell eslint what stage it is. (This could also be build or test for example)
+  stage: lint
+  # What scripts do we want to run?
+  script:
+    # install eslint
+    - yarn --silent
+    # Run eslint
+    - npm run lint
+
+cache:
+  paths:
+    - node_modules/

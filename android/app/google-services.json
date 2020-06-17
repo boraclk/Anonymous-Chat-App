@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "289577215153",
+    "firebase_url": "https://chat-fa960.firebaseio.com",
+    "project_id": "chat-fa960",
+    "storage_bucket": "chat-fa960.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289577215153:android:aa85a57bb0461e79a72e90",
+        "android_client_info": {
+          "package_name": "com.starterkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289577215153-tcl9t43mk2mmj80efhrnj72ekga23b1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTINyy3J-mxUeR-2PkFRJ1fEdo8YHKylk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289577215153-tcl9t43mk2mmj80efhrnj72ekga23b1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
